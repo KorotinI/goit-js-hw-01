@@ -1,5 +1,4 @@
-"use strict";
-
+'use strict';
 function getShippingMessage(country, price, deliiveryFee)
 {
     let totalPrice = price + deliiveryFee;
